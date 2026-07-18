@@ -1,0 +1,49 @@
+{
+    "M 42": {
+        "titolo": "Nebulosa di Orione",
+        "cataloghi": {
+            "M": "42",
+            "NGC": "1976"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "2h 30'",
+        "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_di_Orione",
+        "immagine": "Immagini/web/nebulosa_d_orione.jpg",
+        "miniatura": "Immagini/miniature/nebulosa_d_orione_thumb.jpg"
+    },
+    "M 45": {
+        "titolo": "Pleiadi",
+        "cataloghi": {
+            "M": "45"
+        },
+        "categoria": "Ammasso Aperto",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "4h 20' 30''",
+        "wikipedia": "https://it.wikipedia.org/wiki/Pleiadi_(astronomia)",
+        "immagine": "Immagini/web/pleiadi_1.jpg",
+        "miniatura": "Immagini/miniature/pleiadi_1_thumb.jpg"
+    },
+    "M 81": {
+        "titolo": "Galassia di Bode",
+        "categoria": "Galassia",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "24h 19' 30''",
+        "wikipedia": "https://it.wikipedia.org/wiki/Galassia_di_Bode",
+        "immagine": "Immagini/web/galassia_di_bode_e_sigaro_sessione_5.jpg",
+        "miniatura": "Immagini/miniature/galassia_di_bode_e_sigaro_sessione_5_thumb.jpg"
+    },
+    "M 82": {
+        "titolo": "Galassia Sigaro",
+        "categoria": "Galassia",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "24h 19' 30''",
+        "wikipedia": "https://it.wikipedia.org/wiki/Galassia_Sigaro",
+        "immagine": "Immagini/web/galassia_di_bode_e_sigaro_sessione_5.jpg",
+        "miniatura": "Immagini/miniature/galassia_di_bode_e_sigaro_sessione_5_thumb.jpg"
+    }
+}
