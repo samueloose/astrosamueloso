@@ -45,5 +45,44 @@
         "wikipedia": "https://it.wikipedia.org/wiki/Galassia_Sigaro",
         "immagine": "Immagini/web/galassia_di_bode_e_sigaro_sessione_5.jpg",
         "miniatura": "Immagini/miniature/galassia_di_bode_e_sigaro_sessione_5_thumb.jpg"
+    },
+    "NGC 2024": {
+        "titolo": "Nebulosa Fiamma",
+        "cataloghi": {
+            "NGC": "2024"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "1h 28'",
+        "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_Fiamma",
+        "immagine": "Immagini/web/nebulosa_fiamma.jpg",
+        "miniatura": "Immagini/miniature/nebulosa_fiamma_thumb.jpg"
+    },
+    "M 31": {
+        "titolo": "Galassia di Andromeda",
+        "cataloghi": {
+            "M": "31"
+        },
+        "categoria": "Galassia",
+        "telescopio": "-",
+        "sensore": "Nikon D3200",
+        "integrazione": "1h 42'",
+        "wikipedia": "",
+        "immagine": "Immagini/web/risultato_finale.jpg",
+        "miniatura": "Immagini/miniature/risultato_finale_thumb.jpg"
+    },
+    "NGC 7001": {
+        "titolo": "Nebulosa Nord America",
+        "cataloghi": {
+            "NGC": "7000"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "-",
+        "sensore": "Nikon D3200",
+        "integrazione": "5h 54'",
+        "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_Nord_America",
+        "immagine": "Immagini/web/deneb.jpg",
+        "miniatura": "Immagini/miniature/deneb_thumb.jpg"
     }
 }
