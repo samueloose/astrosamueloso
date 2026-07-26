@@ -182,5 +182,19 @@
         "wikipedia": "https://it.wikipedia.org/wiki/M51_(astronomia)",
         "immagine": "Immagini/web/galassia_vortice.jpg",
         "miniatura": "Immagini/miniature/galassia_vortice_thumb.jpg"
+    },
+    "NGC 5195": {
+        "titolo": "",
+        "cataloghi": {
+            "NGC": "5195",
+            "Costellazione": "Cani da Caccia"
+        },
+        "categoria": "Galassia",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "13h 50m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/M51_(astronomia)",
+        "immagine": "Immagini/web/galassia_vortice.jpg",
+        "miniatura": "Immagini/miniature/galassia_vortice_thumb.jpg"
     }
 }
