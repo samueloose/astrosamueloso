@@ -3,12 +3,13 @@
         "titolo": "Nebulosa di Orione",
         "cataloghi": {
             "M": "42",
-            "NGC": "1976"
+            "NGC": "1976",
+            "Costellazione": "Orione"
         },
         "categoria": "Nebulosa",
         "telescopio": "Omegon ProNewton N 153/750",
         "sensore": "Nikon D3200",
-        "integrazione": "2h 30'",
+        "integrazione": "2h 30m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_di_Orione",
         "immagine": "Immagini/web/nebulosa_d_orione.jpg",
         "miniatura": "Immagini/miniature/nebulosa_d_orione_thumb.jpg"
@@ -16,32 +17,41 @@
     "M 45": {
         "titolo": "Pleiadi",
         "cataloghi": {
-            "M": "45"
+            "M": "45",
+            "Costellazione": "Toro"
         },
         "categoria": "Ammasso Aperto",
         "telescopio": "Omegon ProNewton N 153/750",
         "sensore": "Nikon D3200",
-        "integrazione": "4h 20' 30''",
+        "integrazione": "4h 0m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Pleiadi_(astronomia)",
         "immagine": "Immagini/web/pleiadi_1.jpg",
         "miniatura": "Immagini/miniature/pleiadi_1_thumb.jpg"
     },
     "M 81": {
         "titolo": "Galassia di Bode",
+        "cataloghi": {
+            "M": "81",
+            "Costellazione": "Orsa Maggiore"
+        },
         "categoria": "Galassia",
         "telescopio": "Omegon ProNewton N 153/750",
         "sensore": "Nikon D3200",
-        "integrazione": "24h 19' 30''",
+        "integrazione": "24h 0m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Galassia_di_Bode",
         "immagine": "Immagini/web/galassia_di_bode_e_sigaro_sessione_5.jpg",
         "miniatura": "Immagini/miniature/galassia_di_bode_e_sigaro_sessione_5_thumb.jpg"
     },
     "M 82": {
         "titolo": "Galassia Sigaro",
+        "cataloghi": {
+            "M": "82",
+            "Costellazione": "Orsa Maggiore"
+        },
         "categoria": "Galassia",
         "telescopio": "Omegon ProNewton N 153/750",
         "sensore": "Nikon D3200",
-        "integrazione": "24h 19' 30''",
+        "integrazione": "24h 0m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Galassia_Sigaro",
         "immagine": "Immagini/web/galassia_di_bode_e_sigaro_sessione_5.jpg",
         "miniatura": "Immagini/miniature/galassia_di_bode_e_sigaro_sessione_5_thumb.jpg"
@@ -49,12 +59,13 @@
     "NGC 2024": {
         "titolo": "Nebulosa Fiamma",
         "cataloghi": {
-            "NGC": "2024"
+            "NGC": "2024",
+            "Costellazione": "Orione"
         },
         "categoria": "Nebulosa",
         "telescopio": "Omegon ProNewton N 153/750",
         "sensore": "Nikon D3200",
-        "integrazione": "1h 28'",
+        "integrazione": "1h 0m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_Fiamma",
         "immagine": "Immagini/web/nebulosa_fiamma.jpg",
         "miniatura": "Immagini/miniature/nebulosa_fiamma_thumb.jpg"
@@ -62,12 +73,13 @@
     "M 31": {
         "titolo": "Galassia di Andromeda",
         "cataloghi": {
-            "M": "31"
+            "M": "31",
+            "Costellazione": "Andromeda"
         },
         "categoria": "Galassia",
-        "telescopio": "-",
+        "telescopio": "Nikkor AF-S DX 18-105mm",
         "sensore": "Nikon D3200",
-        "integrazione": "1h 42'",
+        "integrazione": "1h 42m 0s",
         "wikipedia": "",
         "immagine": "Immagini/web/risultato_finale.jpg",
         "miniatura": "Immagini/miniature/risultato_finale_thumb.jpg"
@@ -75,14 +87,100 @@
     "NGC 7001": {
         "titolo": "Nebulosa Nord America",
         "cataloghi": {
-            "NGC": "7000"
+            "NGC": "7000",
+            "Costellazione": "Cigno"
         },
         "categoria": "Nebulosa",
         "telescopio": "-",
         "sensore": "Nikon D3200",
-        "integrazione": "5h 54'",
+        "integrazione": "5h 0m 0s",
         "wikipedia": "https://it.wikipedia.org/wiki/Nebulosa_Nord_America",
         "immagine": "Immagini/web/deneb.jpg",
         "miniatura": "Immagini/miniature/deneb_thumb.jpg"
+    },
+    "Alfa Cygni": {
+        "titolo": "Deneb",
+        "cataloghi": {
+            "Costellazione": "Cigno"
+        },
+        "categoria": "Stella",
+        "telescopio": "",
+        "sensore": "Nikon D3200",
+        "integrazione": "0h 0m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/Deneb",
+        "immagine": "Immagini/web/deneb.jpg",
+        "miniatura": "Immagini/miniature/deneb_thumb.jpg"
+    },
+    "NGC 6888": {
+        "titolo": "Nebulosa Crescente",
+        "cataloghi": {
+            "NGC": "6888",
+            "Costellazione": "Cigno"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "ZWO ASI294 MC Pro",
+        "integrazione": "41h 5m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/NGC_6888",
+        "immagine": "Immagini/web/nebulosa_crescente.jpg",
+        "miniatura": "Immagini/miniature/nebulosa_crescente_thumb.jpg"
+    },
+    "NGC 281": {
+        "titolo": "Nebulosa Pacman",
+        "cataloghi": {
+            "NGC": "281",
+            "Costellazione": "Cassiopea"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "ZWO ASI294 MC Pro",
+        "integrazione": "2h 44m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/NGC_281",
+        "immagine": "Immagini/web/nebulosa_pacman.jpg",
+        "miniatura": "Immagini/miniature/nebulosa_pacman_thumb.jpg"
+    },
+    "NGC 7023": {
+        "titolo": "Nebulosa Arcobaleno",
+        "cataloghi": {
+            "NGC": "7023",
+            "Costellazione": "Cefeo"
+        },
+        "categoria": "Nebulosa",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "18h 26m 19s",
+        "wikipedia": "https://it.wikipedia.org/wiki/NGC_7023",
+        "immagine": "Immagini/web/nebulosa_arcobaleno.jpg",
+        "miniatura": "Immagini/miniature/nebulosa_arcobaleno_thumb.jpg"
+    },
+    "M 86": {
+        "titolo": "",
+        "cataloghi": {
+            "M": "86",
+            "NGC": "4406",
+            "Costellazione": "Vergine"
+        },
+        "categoria": "Galassia",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "ZWO ASI294 MC Pro",
+        "integrazione": "3h 38m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/M86_(astronomia)",
+        "immagine": "Immagini/web/m_86.jpg",
+        "miniatura": "Immagini/miniature/m_86_thumb.jpg"
+    },
+    "M 51": {
+        "titolo": "Galassia Vortice",
+        "cataloghi": {
+            "M": "51",
+            "NGC": "5194",
+            "Costellazione": "Cani da Caccia"
+        },
+        "categoria": "Galassia",
+        "telescopio": "Omegon ProNewton N 153/750",
+        "sensore": "Nikon D3200",
+        "integrazione": "13h 50m 0s",
+        "wikipedia": "https://it.wikipedia.org/wiki/M51_(astronomia)",
+        "immagine": "Immagini/web/galassia_vortice.jpg",
+        "miniatura": "Immagini/miniature/galassia_vortice_thumb.jpg"
     }
 }
